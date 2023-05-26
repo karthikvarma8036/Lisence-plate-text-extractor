@@ -1,0 +1,1 @@
+# Lisence-plate-text-extractor
